@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2892" started-at="2020-11-29T14:46:07 IST" finished-at="2020-11-29T14:46:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2892" started-at="2020-11-29T14:46:07 IST" finished-at="2020-11-29T14:46:09 IST">
+      <class name="com.companyname.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:com.companyname.AppTest@57536d79]" name="shouldAnswerWithTrue" duration-ms="2865" started-at="2020-11-29T14:46:07 IST" finished-at="2020-11-29T14:46:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.companyname.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

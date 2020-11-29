@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="3267" started-at="2020-11-26T19:36:29 IST" finished-at="2020-11-26T19:36:32 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="3267" started-at="2020-11-26T19:36:29 IST" finished-at="2020-11-26T19:36:32 IST">
+      <class name="com.companyname.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:com.companyname.AppTest@5b275dab]" name="shouldAnswerWithTrue" duration-ms="2899" started-at="2020-11-26T19:36:29 IST" finished-at="2020-11-26T19:36:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+        <test-method status="PASS" signature="shouldAnswerWithTrue1()[pri:0, instance:com.companyname.AppTest@5b275dab]" name="shouldAnswerWithTrue1" duration-ms="338" started-at="2020-11-26T19:36:32 IST" finished-at="2020-11-26T19:36:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue1 -->
+      </class> <!-- com.companyname.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
